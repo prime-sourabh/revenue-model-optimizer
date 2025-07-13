@@ -213,4 +213,4 @@ shopify-credentials.json
 
 # Local development
 .local/
-local/
+local/package-lock.json
